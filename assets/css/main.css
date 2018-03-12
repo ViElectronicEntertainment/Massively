@@ -1,6 +1,13 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
 
+@font-face {
+    font-family: "TRON";
+    font-style: normal;
+    font-weight: normal;
+    src: url("/fonts/TRON.woff2") format("woff2"), url("/fonts/TRON.ttf") format("truetype");
+}
+
 /*
 	Massively by HTML5 UP
 	html5up.net | @ajlkn

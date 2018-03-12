@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:44:27	228/228	---M--	403	error ('Forbidden')	text/html	date:Mon,%2012%20Mar%202018%2017:44:27%20GMT	http://themehelite.com/themeforest/pure/	C:/Mis%20lugares%20Web/PURE/themehelite.com/themeforest/pure/index.html	(from )
+12:44:28	232/232	---M-Z	200	added ('OK')	text/plain	date:Mon,%2010%20Aug%202015%2018:26:54%20GMT	http://themehelite.com/robots.txt		(from )
